@@ -16,6 +16,7 @@ All analyses include proper high-resolution visualization
 
 ---
 **Project Goals**<br><br>
+##### <u> Done </u>
 - [x] Improving UI of the platform.
 - [x] Adding missing buttons or UI elemets in the webapp.
 - [x] Adding alternate way(copy paste box) of adding the data for Gene/Protein Analysis.
@@ -44,6 +45,11 @@ All analyses include proper high-resolution visualization
     * [RnsSeq support](https://github.com/danijak/GeneCloudOmics/commit/6b4c7e504639221c523addbae1b7973f81381c90)
 * Adding download of plots in Transcriptome analysis
     * [Download Plots](https://github.com/danijak/GeneCloudOmics/commit/89e7c596dbc4a8f0a65b9226ba073517aa7aff6a)
+* Adding download of report as PDF
+    * [Download report](https://github.com/danijak/GeneCloudOmics/commit/47357e2d3e0e75c7f72701c44ed850bb06c03339)
+ 
+** Pull Request during gsoc period**<br>
+[#61](https://github.com/buithuytien/GeneCloudOmics/pull/61)
     
 ---
     
@@ -64,10 +70,46 @@ All analyses include proper high-resolution visualization
  ![sc5](https://user-images.githubusercontent.com/20498499/130143097-9046c79e-f895-49da-99e4-56d18e408a36.png)<br><br>
 5. *Adding to report*<br><br>
  ![sc6](https://user-images.githubusercontent.com/20498499/130143179-0f880065-281a-4669-b418-267a6e6723ae.png)<br><br>
+6. *Genrating Report*<br><br>
+ ![sc7](https://user-images.githubusercontent.com/20498499/130273031-0d516579-526b-41ad-b2cc-4f8595c2d3fb.png)
  
 ---
 **Future Aspects**
-There are things that I could not finish during the GSoC period and could act as starting point for anyone who would be interested to contribute to the project further.
-1. 
 
+There are more feature which can be added:  
+1. Improve SOM analysis for Research purpose.
+2. Add report export options like email or save to drive.
+
+
+---
+
+### Important Links
+
+- [GeneCloudOmics live portal](http://combio-sifbi.org/GeneCloudOmics/)
+- [GeneCloudOmics github repo](https://github.com/buithuytien/GeneCloudOmics)
+- [GeneCloudOmics documentation](https://github.com/buithuytien/GeneCloudOmics/blob/master/ABioTrans_UserManual_20190725.pdf)
+
+- [GSoC GeneCloudOmics issue](https://github.com/buithuytien/GeneCloudOmics/issues)
+- [GSoC @NRNB](https://nrnb.org/gsoc.html)
+- [GSoC @NRNB GitHub](https://github.com/nrnb/GoogleSummerOfCode)
+- [NRNB](https://nrnb.org/)
+
+- [GitHub Javed Ali](https://github.com/danijak)
+- [GSoC Project Link](https://summerofcode.withgoogle.com/dashboard/project/6244219309522944/overview/)
+
+
+---
+
+### Contact
+
+- Email: 
+**javedali9582@gmail.com**
+<p>
+<a href="https://www.linkedin.com/in/javed-ali-8aaa45147/" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</a> &nbsp; 
+<a href="https://github.com/danijak" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+</a>
+</p>
  
