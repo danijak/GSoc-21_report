@@ -53,7 +53,7 @@ All analyses include proper high-resolution visualization
     * [Download report](https://github.com/danijak/GeneCloudOmics/commit/47357e2d3e0e75c7f72701c44ed850bb06c03339)
  
 ** Pull Request during gsoc period**<br>
-[#61](https://github.com/buithuytien/GeneCloudOmics/pull/61)
+[https://github.com/buithuytien/GeneCloudOmics/pull/61](https://github.com/buithuytien/GeneCloudOmics/pull/61)
     
 ---
     
