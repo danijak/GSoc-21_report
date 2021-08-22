@@ -3,6 +3,11 @@
 ![img](https://i0.wp.com/loankimrobinson.com/wp-content/uploads/2019/04/R_Shiny.png?fit=490%2C338&ssl=1)
 
 ---
+**Mentors**<br><br>
+Dr. Mohamed Helmy
+Thuy Tien Bui
+
+---
 **Introduction**<br><br>
 The Google summer of code program has been a great and fun learning experience to me over the past months, 
 during which I was developing new features to the interactive webapp GeneCloudOmics . 
@@ -17,6 +22,7 @@ It is designed as a one-stop server that helps the users perform all tasks throu
 GeneCloudOmics is an open-source tool and the website is free and open to all users and there is no login requirement.
 GeneCloudOmics provides the user with the following bio-statistical analyses: Pearson and Spearman rank correlations, PCA, k-means and hierarchical clustering, Shannon entropy and noise (square of the coefficient of variation), t-SNE, random forest and SOM analyses.
 All analyses include proper high-resolution visualization
+
 
 ---
 **Project Goals**<br><br>
