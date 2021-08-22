@@ -4,7 +4,7 @@
 
 ---
 **Mentors**<br><br>
-Dr. Mohamed Helmy
+Dr. Mohamed Helmy<br>
 Thuy Tien Bui
 
 ---
